@@ -1,6 +1,10 @@
 .env
 **/.env
-.venv/
+.venv*/
 __pycache__/
 *.pyc
 .DS_Store
+backend/models/
+**/node_modules/
+**/dist/
+*.tsbuildinfo
